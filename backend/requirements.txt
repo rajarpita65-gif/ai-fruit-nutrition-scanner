@@ -1,0 +1,11 @@
+flask==3.0.3
+flask-cors==4.0.1
+tensorflow==2.16.1
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+opencv-python==4.9.0.80
+matplotlib==3.9.0
+open_clip_torch==3.3.0
+ultralytics==8.3.0
+git+https://github.com/ultralytics/CLIP.git
